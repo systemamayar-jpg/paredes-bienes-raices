@@ -1,0 +1,13 @@
+.venv
+.git
+.gitignore
+.env
+*.md
+__pycache__
+*.py[cod]
+*.log
+.pytest_cache
+media
+staticfiles
+.cursor
+terminals
